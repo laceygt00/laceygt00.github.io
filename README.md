@@ -1,4 +1,4 @@
-# Personal Website — Youwei Hu
+# Personal Website — Lacey Thomas
 
 This repository contains the source code for my personal portfolio website built using **R Markdown, HTML, and CSS**. The website highlights my background in biostatistics, research projects, and technical skills in data science.
 
