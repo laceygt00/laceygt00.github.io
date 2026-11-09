@@ -36,7 +36,7 @@ title: ""
       <div class="fade-in d3">
         <div class="hero-buttons">
           <a href="projects.html" class="btn-primary-moss">View My Work</a>
-          <a href="files/CV.pdf" target="_blank" class="btn-outline-moss">Download CV</a>
+          <a href="files/Lacey_Thomas_Resume.pdf" target="_blank" class="btn-outline-moss">Download CV</a>
         </div>
       </div>
     </div>
