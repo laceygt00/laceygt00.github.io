@@ -520,7 +520,7 @@ hr {
 .story-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 40px;
+  gap: 30px;
   align-items: start;
 }
 .story-card .s-label {
