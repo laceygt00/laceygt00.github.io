@@ -21,7 +21,7 @@ The site is designed to be **clean, responsive, and accessible on both desktop a
 ## 📂 Website Structure
 
 ```
-DATA555_website/
+Laceygt00_website/
 ├── index.Rmd # Home page
 ├── about.Rmd # About me (story and background)
 ├── projects.Rmd # Project portfolio
