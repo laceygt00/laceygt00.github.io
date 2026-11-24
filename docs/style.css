@@ -519,8 +519,9 @@ hr {
 }
 .story-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 40px;
+  align-items: start;
 }
 .story-card .s-label {
   font-size: 12px;
